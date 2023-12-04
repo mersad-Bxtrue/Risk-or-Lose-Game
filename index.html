@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+  <title>Risk or Lose</title>
+</head>
+
+<body>
+  <main>
+    <section class="player player--0 player--active">
+      <h2 class="name" id="name--0">Player 1</h2>
+      <p class="score" id="score--0">43</p>
+      <div class="current">
+        <p class="current-label">Current Point</p>
+        <p class="current-score" id="current--0">0</p>
+      </div>
+    </section>
+    <section class="player player--1">
+      <h2 class="name" id="name--1">Player 2</h2>
+      <p class="score" id="score--1">24</p>
+      <div class="current">
+        <p class="current-label">Current Point</p>
+        <p class="current-score" id="current--1">0</p>
+      </div>
+    </section>
+
+    <img src="" alt="Playing dice" class="dice hidden" />
+    <button class="btn btn--new">🔄 New game</button>
+    <button class="btn btn--roll">🎲 Roll dice</button>
+    <button class="btn btn--hold">📥 Hold</button>
+  </main>
+
+  <div class="victory-message hidden">
+    <button class="close-window">&times;</button>
+    <h1 class="mesage-title">sdfdsavsadfv</h1>
+    <div class="relative">
+      <input type="text" class="input-message" placeholder="Leave a message for your opponent...">
+      <button class="send-btn"><i class="fa-solid fa-right-long"></i></button>
+    </div>
+    <P class="suggest-msg">* Today Suggested Message : <span>Go and come when you grow up 🫠</span></P>
+    <p class="show-message hidden">Player 1 : <span class="player-message"></span></p>
+  </div>
+  <div class="overlay hidden"></div>
+
+  <script src="assets/js/script.js"></script>
+</body>
+
+</html>
