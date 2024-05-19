@@ -9,4 +9,5 @@
 2) If you roll a 1 between your dice rolls, all the points you have earned in the current score will be zero and the dice will be lost.
 
 ✅ Whoever reaches the number 100 first wins the game and can leave a message for his opponent.
+
 ✅ The game can start from the beginning, but this time it starts with the person who won the last hand.
