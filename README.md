@@ -2,7 +2,7 @@
 🏆a game that can increase the risk-taking stress in you at any moment.
 
 
-# Game rules:
+# Game rules :
 
 ✅The game starts with player 1 and starts rolling the dice. He can continue to roll the dice and two things can happen:
 1) keep the points he got and give the dice to the opponent.
