@@ -2,6 +2,7 @@
 🏆 The game that can increase the risk-taking stress in you at any moment.
 
 # Demo
+![Forkify-Demo](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/blob/master/assets/video/demo.gif)
 
 # Rules of the game:
 
