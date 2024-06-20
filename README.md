@@ -2,7 +2,7 @@
 🏆 The game that can increase the risk-taking stress in you at any moment.
 
 # Demo
-![](./assets/video/demo.mp4)
+![Forkify-Demo](https://user-images.githubusercontent.com/61850850/85405310-d8240480-b57d-11ea-980b-63cd7766a9c6.gif)
 
 # Rules of the game:
 
