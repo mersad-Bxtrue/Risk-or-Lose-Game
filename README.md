@@ -1,6 +1,11 @@
 # Risk or lose game
 🏆 The game that can increase the risk-taking stress in you at any moment.
 
+# Demo
+<video src="./assets/video/Risk or Lose - demo.mp4" controls autoplay loop>
+  Your browser does not support the video tag.
+</video>
+
 
 # Rules of the game:
 
