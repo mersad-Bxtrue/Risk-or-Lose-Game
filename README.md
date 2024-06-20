@@ -1,5 +1,6 @@
 # Risk or lose game
-🏆 The game that can increase the risk-taking stress in you at any moment.
+🏆 In this game, the winner is the one who has high risk-taking power and can get the most points when the dice are in her hands.
+However, you should be careful that your dice are not number 1, because in this case you will lose everything. 🫡
 
 # Demo
 ![Forkify-Demo](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/blob/master/assets/video/demo.gif)
