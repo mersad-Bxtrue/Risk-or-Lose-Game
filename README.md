@@ -2,10 +2,7 @@
 🏆 The game that can increase the risk-taking stress in you at any moment.
 
 # Demo
-<video src="./assets/video/Risk or Lose - demo.mp4" controls autoplay loop>
-  Your browser does not support the video tag.
-</video>
-
+![](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/assets/video/Risk or Lose - demo.mp4)
 
 # Rules of the game:
 
