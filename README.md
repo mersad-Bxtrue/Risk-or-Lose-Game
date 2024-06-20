@@ -2,7 +2,7 @@
 🏆 The game that can increase the risk-taking stress in you at any moment.
 
 # Demo
-![](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/assets/video/demo.mp4)
+![](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/assets/video/demo.gif)
 
 # Rules of the game:
 
