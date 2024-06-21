@@ -1,4 +1,3 @@
-![EnjoyEnjoyYourDayGIF](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/assets/140182752/83de7391-333d-49c9-b961-015e8f70bd69)# Risk or lose game
 🏆 In this game, the winner is the one who has high risk-taking power and can get the most points when the dice are in her hands.
 However, you should be careful that your dice are not number 1, because in this case you will lose everything. 🫡
 
