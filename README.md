@@ -17,4 +17,3 @@ However, you should be careful that your dice are not number 1, because in this 
 
 # How to use
 start index.html file in your localhost and enjoy the game ✌️
-![EnjoyEnjoyYourDayGIF (2)](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/assets/140182752/8f9b7e1f-3f2b-4750-a697-bf75cfb7f826)
