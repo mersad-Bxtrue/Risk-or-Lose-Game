@@ -1,4 +1,4 @@
-# Risk or lose game
+![EnjoyEnjoyYourDayGIF](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/assets/140182752/83de7391-333d-49c9-b961-015e8f70bd69)# Risk or lose game
 🏆 In this game, the winner is the one who has high risk-taking power and can get the most points when the dice are in her hands.
 However, you should be careful that your dice are not number 1, because in this case you will lose everything. 🫡
 
@@ -14,3 +14,7 @@ However, you should be careful that your dice are not number 1, because in this 
 ✅ Whoever reaches the number 100 first wins the game and can leave a message for his opponent.
 
 ✅ The game can start from the beginning, but this time it starts with the person who won the last hand.
+
+# How to use
+start index.html file in your localhost and enjoy the game ✌️
+![EnjoyEnjoyYourDayGIF (2)](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/assets/140182752/8f9b7e1f-3f2b-4750-a697-bf75cfb7f826)
