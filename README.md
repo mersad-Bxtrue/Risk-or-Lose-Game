@@ -3,7 +3,7 @@
 However, you should be careful that your dice are not number 1, because in this case you will lose everything. 🫡
 
 # Demo
-![Forkify-Demo](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/blob/master/assets/video/demo.gif)
+![Risk-or-Lose-Demo](https://github.com/mersad-Bxtrue/Risk-or-Lose-Game/blob/master/assets/video/demo.gif)
 
 # Rules of the game:
 
